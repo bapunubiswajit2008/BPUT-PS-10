@@ -1,0 +1,10 @@
+{
+  "name": "HireGate — Campus Placement & Proctored Assessment Portal",
+  "description": "Role-gated campus placement platform for Students, Placement Cell, and Recruiters featuring webcam-proctored skill assessments, trust-weighted ranking, and resume matching.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
